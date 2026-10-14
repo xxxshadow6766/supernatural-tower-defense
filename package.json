@@ -1,0 +1,17 @@
+{
+  "name": "supernatural-tower-defense",
+  "version": "1.0.0",
+  "description": "3D multiplayer tower defense with wizards, witches and dragons. Party codes, no accounts.",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "three": "0.160.0",
+    "ws": "8.18.0"
+  }
+}
